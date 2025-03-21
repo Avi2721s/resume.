@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aviram Singh - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Aviram Singh</h1>
+        <h2>Desktop Engineer</h2>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills while making a significant contribution to the success of the company.</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <p><strong>Desktop Support Engineer</strong> - Practee Technologies (May 2021 - July 2023)</p>
+        <p><strong>Desktop Support Engineer</strong> - iSon Xperiences (July 2023 - Present)</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>OS Installation & Troubleshooting</li>
+            <li>Application Software Installation & Activation</li>
+            <li>Remote Desktop Support</li>
+            <li>MS Outlook & MS 365 Configuration</li>
+            <li>Server Monitoring & AD Support</li>
+            <li>Networking & IP Configuration</li>
+        </ul>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <p>Bachelor's Degree - M.P.C. Autonomous College</p>
+        <p>12th - F.M. College</p>
+        <p>10th - V.V. High School</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p><strong>Email:</strong> <a href="mailto:aviramsingh16p@gmail.com">aviramsingh16p@gmail.com</a></p>
+        <p><strong>Phone:</strong> +91 7751900395</p>
+        <p><strong>Location:</strong> Odisha</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Aviram Singh. All rights reserved.</p>
+    </footer>
+</body>
+</html>
